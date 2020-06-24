@@ -1,7 +1,6 @@
 {
     "name": "rnagda99/trackproject",
     "description": "Track My Projects",
-    "type": "composer-plugin",
     "license": "MIT",
     "authors": [
         {

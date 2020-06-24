@@ -1,0 +1,17 @@
+{
+    "name": "rnagda99/trackproject",
+    "description": "Track My Projects",
+    "type": "composer-plugin",
+    "version": "1.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Deepak Soni",
+            "email": "deepak.soni@papasiddhi.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9"
+    },
+}
